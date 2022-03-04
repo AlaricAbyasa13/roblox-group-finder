@@ -1,4 +1,4 @@
-EMBED_FOOTER_TEXT = "https://github.com/anonipro999/roblox-claimable-group-finder"
+EMBED_FOOTER_TEXT = "https://discord.gg/S4d5JvAuWQ"
 
 DEFAULT_ID_SLACK = 100000
 DEFAULT_RANGES = (
