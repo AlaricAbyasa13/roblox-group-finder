@@ -1,1 +1,1 @@
-just like optimize proxy.txt free anyone  https://discord.gg/N8yCfTqf join for support
+just like optimize proxy.txt free anyone  https://discord.gg/S4d5JvAuWQ join for support
