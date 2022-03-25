@@ -1,4 +1,4 @@
-EMBED_FOOTER_TEXT = "https://discord.gg/S4d5JvAuWQ"
+EMBED_FOOTER_TEXT = "https://discord.gg/n2wnte4uKY"
 
 DEFAULT_ID_SLACK = 100000
 DEFAULT_RANGES = (
