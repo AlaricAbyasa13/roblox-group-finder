@@ -1,4 +1,4 @@
-EMBED_FOOTER_TEXT = "https://discord.gg/n2wnte4uKY"
+EMBED_FOOTER_TEXT = "Alarix World"
 
 DEFAULT_ID_SLACK = 100000
 DEFAULT_RANGES = (
